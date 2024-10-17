@@ -121,11 +121,33 @@ Epochs: 30
 •	The best accuracy we could obtain was 0.52 (52% )with a loss of 1.12 which is not optimal. 
 •	We tried to improve accuracy by increasing the number of neurons per hidden layer, Increasing the number of hidden layers, changing the number of epochs and none of these methods seem to improve accuracy
 
-Possible Reasons for low accuracy:
+Possible Reasons for Low Accuracy:
 1)Over Fitting: We believe the data adjusted too much to fit the training data and did not generalize well when fitting and predicting test data
 2)Another possible cause could be the uniformity of data specifically the non categorical data in which the unique values were distributed evenly among the population and hence lack of variability in the dispersion.
 3)To further improve accuracy we evaluated two additional models to see if the accuracy would improve with the same data,. The models we built and evaluated were  a logistic regressions model and a Decision Tree Model.
 
 
 
-Logistic Regression and Decision Tree Model - Luke
+Logistic Regression Model Process:
+•	Split the data set, scaled, and standardized each feature
+• Applied Principal Component Analysis
+•	Fit the model to our training data
+•	Obtained predictions using the testing data
+•	Created accuracy report and confusion matrix
+
+Logistic Regression Model Accuracy: 51.45%
+
+Possible Reasons for Low Accuracy:
+1) The target labels (Productivity and Satisfaction) have low or no linear correlation with the features
+
+Decision Tree Model Process:
+•	Split the data set, scaled, and standardized each feature
+•	Fit the model to our training data
+•	Obtained predictions using the testing data
+•	Created accuracy report and confusion matrix
+• Created a plot of the Decision Tree using Matplotlib
+
+Decision Tree Model Accuracy: 48%
+
+Possible Reasons for Low Accuracy:
+1) Overfitting due to the dataset's uniform distribution among its features
