@@ -12,10 +12,17 @@ This analysis could help businesses, HR professionals, and researchers assess th
 Group Roles:
 
 Data Clean up – Luke
+
 Data Preprocessing – Bhagi and Luke
+
 Data Analysis/Tableau/graphs etc. – Jay and Maher
+
 Building the ML Model – Neural Network Deep Learning Model – Bhagi
+
 Building the ML Model – Logistic Regression and Random Forest – Luke
+
 Testing the Models – Bhagi and Luke
+
 Creating the Documentation – Bhagi, Luke, Jay, Maher
+
 Creating the Presentation - Jay, Maher,  Luke, Bhagi
