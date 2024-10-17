@@ -68,6 +68,7 @@ Data Analysis  -- Maher and Jay
 
 
 Machine Learning Models
+
 Our goal was to create a model with a high accuracy score. We explored the neural network deep learning model and as the accuracy was not optimal for this data set, we also explored two other models which were a Logistic Regression Mode and a Decision Tree Model.
 
 Neural Network Model: Deep Learning Model
