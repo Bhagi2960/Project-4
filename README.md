@@ -95,7 +95,7 @@ An unexpected finding from the data is that depression is the leading mental hea
 
 
 
-## Machine Learning Models
+## Machine Learning Models -- Bhagi and Luke
 
 Our goal was to create a model with a high accuracy score. We explored the neural network deep learning model and as the accuracy was not optimal for this data set, we also explored two other models which were a Logistic Regression Mode and a Decision Tree Model.
 
