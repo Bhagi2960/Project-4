@@ -34,9 +34,9 @@ Obtained from Kaggle:  Remote work and mental health.
 https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data
 The original data set consisted of  the following fourteen columns of which productivity and satisfaction were  our target variables and all others were the feature variables.
 
-Employee ID
-Age
-Gender
+Employee ID 
+Age 
+Gender 
 Job_Role
 Work_Location
 Hours Worked Per Week
