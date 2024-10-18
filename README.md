@@ -153,7 +153,6 @@ The analysis indicates that employee satisfaction with remote work varies signif
 appear more adaptable to remote work, while older employees (50-60) may prefer traditional office settings due to established career patterns and 
 social interaction needs.
 
-
 **Comparative Analysis of Employee Satisfaction with Remote Work by Age Group & Job Role**
 This analysis examines the differences in employee satisfaction with remote work across various age groups and job roles, based on average ages 
 derived from two datasets: one for employees satisfied with remote work and another for those unsatisfied. The findings reveal notable trends that 
@@ -163,12 +162,15 @@ The data is categorized by age groups (18-29, 30-39, 40-49, and 50-60) and job r
 Sales, Software Engineer). Each role is represented by an average age for both satisfied and unsatisfied employees.
 
 **Correlation for Age & Satisfied vs Unsatisfied with Remote Work based on Region**
-Correlation for Region broken down by Age Separation .  Color shows details about Satisfaction with Remote Work. The view is filtered on Age 
-Separation , which keeps 18-29, 30-39, 40-49 and 50-60.
+In the Analaysis,the data is categorized by age groups and job roles.
+The analysis reveals significant regional disparities in satisfaction levels among different age groups. For instance the younger 
+demographic (18-29) in Asia appears to be relatively more satisfied compared to their peers in North America, where dissatisfaction 
+is notably high. Conversely, the next age demographic (30-39) generally experiences lower satisfaction across most regions, with 
+South America showing an intriguing exception.
 
 **Correlation for Gender & Satisfcation with Remote Work**
 In this analysis, we examine the correlation coefficients for different age groups and genders regarding their satisfaction with remote work
- using the CORR Function. 
+using the CORR Function. 
 Interpretation of Results
 1. Age Group Insights:
 The 30-39 age group shows the highest correlation for males (0.2425), indicating a stronger relationship between this demographic and their 
