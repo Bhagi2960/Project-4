@@ -52,7 +52,7 @@ Target Variables : Productivity, Satisfaction
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Data Analysis -- Maher and Jay
+## Data Analysis -- Maher and Jarvis
 
 
 **Employee Job Satisfaction Based on Work Location:** 
