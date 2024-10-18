@@ -81,6 +81,107 @@ It’s important to recognize that our analysis reflects a general trend, and in
 In North America, burnout emerges as the most prevalent mental health condition in the workplace. This aligns with data showing that the U.S. is one of the most overworked developed nations. According to the International Labour Organization, “Americans work 137 more hours per year than Japanese workers, 260 more hours than British workers, and 299 more hours than French workers.”
 An unexpected finding from the data is that depression is the leading mental health condition in South America. This can likely be attributed to several factors, including socioeconomic challenges, high stress levels, limited access to mental healthcare, cultural stigma surrounding mental health, and frequent exposure to traumatic events such as violence.
 
+Sleep Quality Based on Region & Age:
+Color shows details about Sleep Quality.  The marks are labeled by Region, average of Age, Age Separation  and Work Location.  
+Details are shown for Work Location. The data is filtered on Job Role. The view is filtered on Region, Age Separation  and Sleep Quality. 
+The Age Separation  filter keeps 18-29, 30-39 and 40-49. The Sleep Quality filter keeps Average, Good and Poor.
+
+**Satisified with Remote Work**
+
+This analysis examines the satisfaction levels of employees with remote work arrangements, segmented by age group and job role. The data highlights 
+average ages across various roles within four distinct age groups: 18-29, 30-39, 40-49, and 50-60. Understanding these trends can provide valuable 
+insights into how different demographics perceive remote work and its effectiveness in their respective roles.
+--Overview of Findings
+The data reveals a clear trend: as age increases, so does the average age of employees in each job role. This may indicate varying levels of 
+adaptability to remote work based on both age and professional experience. Below is a detailed breakdown of the findings by age group.
+Age Group Analysis
+1. Age Group 18-29
+Insights:
+Employees in this age group are predominantly in entry-level or early-career positions, with average ages ranging from approximately 25 to 26 years. 
+Their relatively young age suggests they may be more adaptable to remote work technologies and practices, potentially leading to higher satisfaction 
+levels due to flexibility and work-life balance.
+2. Age Group 30-39
+Insights:
+This group shows a slight increase in average age, reflecting more experienced professionals who may have established preferences for work environments. 
+The roles here are likely to involve more responsibility, which could influence their satisfaction with remote work based on the degree of collaboration 
+required in their positions.
+3. Age Group 40-49
+Insights:
+Employees in this age group are approaching mid-career stages, with average ages around mid-40s across all roles. Their experience may lead to a preference 
+for established workflows and face-to-face interactions, which could affect their overall satisfaction with remote work setups.
+4. Age Group 50-60
+Insights:
+This older demographic shows the highest average ages across all roles, indicating a wealth of experience but potentially a lower adaptability to remote work 
+due to established habits and preferences for traditional office environments. Their satisfaction may hinge on how well remote work accommodates their needs 
+for communication and collaboration.
+Conclusion
+The analysis indicates that employee satisfaction with remote work varies significantly across age groups and job roles:
+Younger employees (18-29) are likely to embrace remote work due to their adaptability and desire for flexibility.
+Mid-career employees (30-39) may appreciate the balance between flexibility and collaboration but could have mixed feelings depending on their specific role
+ requirements.
+Older employees (40-60) might face challenges adjusting to remote work, impacting their overall satisfaction levels.
+
+**Unsatisfied with Remote Work**
+The analysis focuses on employee satisfaction with remote work across different age groups and job roles, revealing distinct trends in average ages among 
+various positions. This data can provide insights into how age influences perceptions of remote work satisfaction.
+Age Group Breakdown
+1. Age Group 18-29
+Average Ages: Ranging from 24.77 (HR) to 26.16 (Software Engineer).
+Insights:
+This group consists of relatively younger employees, with an average age just above mid-20s.
+Roles such as Data Scientist and Designer are prevalent, suggesting a strong presence of tech-savvy individuals who may be more adaptable to remote work environments.
+2. Age Group 30-39
+Average Ages: Ranging from 34.07 (Marketing) to 35.03 (Software Engineer).
+Insights:
+Employees in this age group are entering their prime career years, often balancing professional growth with personal responsibilities.
+The slight increase in average age compared to the younger group may indicate a growing need for stability, which could influence their satisfaction 
+levels with remote work.
+3. Age Group 40-49
+Average Ages: Ranging from 43.83 (Data Scientist) to 45.41 (Marketing).
+Insights:
+This group shows a marked increase in average age, suggesting a shift toward more experienced professionals.
+The higher averages may correlate with increased expectations for work-life balance and job security, potentially leading to greater dissatisfaction 
+if remote work does not meet these needs.
+4. Age Group 50-60
+Average Ages: Ranging from 54.03 (Project Manager) to 56.04 (Marketing).
+Insights:
+Employees in this age group are likely nearing retirement or considering long-term career transitions.
+Their higher average ages could reflect a preference for traditional work environments and face-to-face interactions, which might contribute to 
+dissatisfaction with remote work setups.
+Conclusion
+The analysis indicates that employee satisfaction with remote work varies significantly across age groups and job roles. Younger employees (18-29) 
+appear more adaptable to remote work, while older employees (50-60) may prefer traditional office settings due to established career patterns and 
+social interaction needs.
+
+
+**Comparative Analysis of Employee Satisfaction with Remote Work by Age Group & Job Role**
+This analysis examines the differences in employee satisfaction with remote work across various age groups and job roles, based on average ages 
+derived from two datasets: one for employees satisfied with remote work and another for those unsatisfied. The findings reveal notable trends that 
+can inform organizational policies regarding remote work.
+Overview of Data
+The data is categorized by age groups (18-29, 30-39, 40-49, and 50-60) and job roles (Data Scientist, Designer, HR, Marketing, Project Manager, 
+Sales, Software Engineer). Each role is represented by an average age for both satisfied and unsatisfied employees.
+
+**Correlation for Age & Satisfied vs Unsatisfied with Remote Work based on Region**
+Correlation for Region broken down by Age Separation .  Color shows details about Satisfaction with Remote Work. The view is filtered on Age 
+Separation , which keeps 18-29, 30-39, 40-49 and 50-60.
+
+**Correlation for Gender & Satisfcation with Remote Work**
+In this analysis, we examine the correlation coefficients for different age groups and genders regarding their satisfaction with remote work
+ using the CORR Function. 
+Interpretation of Results
+1. Age Group Insights:
+The 30-39 age group shows the highest correlation for males (0.2425), indicating a stronger relationship between this demographic and their 
+satisfaction with remote work compared to other age groups.
+The 18-29 age group has the highest correlation for non-binary individuals (0.1238), suggesting that this group may experience unique satisfaction dynamics.
+2.	Gender Differences:
+Males in the 30-39 age group exhibit significantly higher satisfaction correlation compared to females (0.0757) in the same group.
+Across all age groups, non-binary individuals consistently show varying levels of correlation, with their highest being in the youngest age bracket.
+3.	Overall Trends:
+Most correlations are low, indicating that while there are some relationships between age, gender, and satisfaction with remote work, they are not strong
+
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
